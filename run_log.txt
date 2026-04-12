@@ -1,0 +1,36 @@
+Launching lib/main.dart on macOS in debug mode...
+Building macOS application...                                   
+/Users/samhwu/Projects/TSGH/health_monitor/macos/Pods/Pods.xcodeproj: warning: The macOS deployment target 'MACOSX_DEPLOYMENT_TARGET' is set to 10.11, but the range of supported deployment target versions is 10.13 to 26.2.99. (in target 'flutter_local_notifications-flutter_local_notifications_privacy' from project 'Pods')
+✓ Built build/macos/Build/Products/Debug/health_monitor.app
+2026-03-18 20:02:14.074 health_monitor[14789:127500] Running with merged UI and platform thread. Experimental.
+Failed to foreground app; open returned 1
+Syncing files to device macOS...                                   113ms
+
+Flutter run key commands.
+r Hot reload. 🔥🔥🔥
+R Hot restart.
+h List all available interactive commands.
+d Detach (terminate "flutter run" but leave application running).
+c Clear the screen
+q Quit (terminate the application on the device).
+
+A Dart VM Service on macOS is available at: http://127.0.0.1:52150/ZaRS1_EMq04=/
+The Flutter DevTools debugger and profiler on macOS is available at: http://127.0.0.1:52150/ZaRS1_EMq04=/devtools/?uri=ws://127.0.0.1:52150/ZaRS1_EMq04=/ws
+flutter: *** sqflite warning ***
+
+You are changing sqflite default factory.
+Be aware of the potential side effects. Any library using sqflite
+will have this factory as the default for all operations.
+
+*** sqflite warning ***
+
+2026-03-18 20:02:19.931 health_monitor[14789:127500] [FBP-iOS] handleMethodCall: flutterRestart
+2026-03-18 20:02:19.931 health_monitor[14789:127500] [FBP-iOS] initializing CBCentralManager
+2026-03-18 20:02:19.931 health_monitor[14789:127500] [FBP-iOS] showPowerAlert: yes
+2026-03-18 20:02:19.931 health_monitor[14789:127500] [FBP-iOS] restoreState: no
+2026-03-18 20:02:19.932 health_monitor[14789:127500] [FBP-iOS] initializing checkForMtuChangesTimer
+2026-03-18 20:02:19.932 health_monitor[14789:127500] [FBP-iOS] disconnectAllDevices(flutterRestart)
+2026-03-18 20:02:19.932 health_monitor[14789:127500] [FBP-iOS] connectedPeripherals: 0
+2026-03-18 20:02:19.932 health_monitor[14789:127500] [FBP-iOS] handleMethodCall: startScan
+2026-03-18 20:02:19.989 health_monitor[14789:127500] [FBP-iOS] centralManagerDidUpdateState CBManagerStatePoweredOn
+Lost connection to device.

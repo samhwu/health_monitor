@@ -1,0 +1,212 @@
+Analyzing health_monitor...                                     
+
+  error • The method 'notoSansTCTextTheme' isn't defined for the type 'GoogleFonts' • lib/main.dart:62:30 • undefined_method
+  error • The argument type 'CardTheme' can't be assigned to the parameter type 'CardThemeData?'.  • lib/main.dart:70:18 • argument_type_not_assignable
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/main.dart:78:37 • undefined_method
+warning • The value of the field '_statusText' isn't used • lib/screens/bluetooth_scan_screen.dart:25:10 • unused_field
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/bluetooth_scan_screen.dart:118:56 • undefined_method
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/bluetooth_scan_screen.dart:169:20 • deprecated_member_use
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/bluetooth_scan_screen.dart:190:41 • undefined_method
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/bluetooth_scan_screen.dart:233:47 • undefined_method
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/bluetooth_scan_screen.dart:238:34 • undefined_method
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/bluetooth_scan_screen.dart:281:48 • deprecated_member_use
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/bluetooth_scan_screen.dart:290:34 • undefined_method
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/bluetooth_scan_screen.dart:296:34 • undefined_method
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/bluetooth_scan_screen.dart:302:49 • undefined_method
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/bluetooth_scan_screen.dart:326:59 • deprecated_member_use
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/bluetooth_scan_screen.dart:331:48 • undefined_method
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/bluetooth_scan_screen.dart:385:44 • deprecated_member_use
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/bluetooth_scan_screen.dart:390:46 • undefined_method
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/bluetooth_scan_screen.dart:391:55 • undefined_method
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/bluetooth_scan_screen.dart:397:34 • undefined_method
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/bluetooth_scan_screen.dart:420:48 • undefined_method
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/bluetooth_scan_screen.dart:435:34 • undefined_method
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/bluetooth_scan_screen.dart:441:48 • undefined_method
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/bluetooth_scan_screen.dart:446:48 • undefined_method
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/bluetooth_scan_screen.dart:466:42 • undefined_method
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/bluetooth_scan_screen.dart:467:42 • undefined_method
+   info • Don't use 'BuildContext's across async gaps • lib/screens/camera_measurement_screen.dart:95:26 • use_build_context_synchronously
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/camera_measurement_screen.dart:116:50 • undefined_method
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/camera_measurement_screen.dart:144:34 • undefined_method
+   info • Use 'const' with the constructor to improve performance • lib/screens/camera_measurement_screen.dart:171:19 • prefer_const_constructors
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/camera_measurement_screen.dart:173:52 • undefined_method
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/camera_measurement_screen.dart:182:31 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/camera_measurement_screen.dart:236:39 • deprecated_member_use
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/camera_measurement_screen.dart:246:30 • undefined_method
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/camera_measurement_screen.dart:260:33 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/camera_measurement_screen.dart:262:63 • deprecated_member_use
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/camera_measurement_screen.dart:271:36 • undefined_method
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/camera_measurement_screen.dart:305:34 • undefined_method
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/camera_measurement_screen.dart:312:30 • undefined_method
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/camera_measurement_screen.dart:323:29 • deprecated_member_use
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/camera_measurement_screen.dart:330:43 • undefined_method
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/camera_measurement_screen.dart:356:47 • undefined_method
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/camera_measurement_screen.dart:375:36 • undefined_method
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/camera_measurement_screen.dart:382:32 • undefined_method
+   info • Use 'const' with the constructor to improve performance • lib/screens/camera_measurement_screen.dart:393:19 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/camera_measurement_screen.dart:395:17 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/camera_measurement_screen.dart:395:29 • prefer_const_constructors
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/camera_measurement_screen.dart:404:54 • undefined_method
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/camera_measurement_screen.dart:418:58 • undefined_method
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/camera_measurement_screen.dart:432:56 • undefined_method
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/camera_measurement_screen.dart:445:56 • undefined_method
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/camera_measurement_screen.dart:487:36 • undefined_method
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/camera_measurement_screen.dart:495:36 • undefined_method
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/camera_measurement_screen.dart:500:40 • undefined_method
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/health_detail_screen.dart:105:45 • undefined_method
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/health_detail_screen.dart:138:54 • undefined_method
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/health_detail_screen.dart:152:27 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/health_detail_screen.dart:157:42 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/health_detail_screen.dart:163:53 • deprecated_member_use
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/health_detail_screen.dart:171:80 • undefined_method
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/health_detail_screen.dart:176:38 • undefined_method
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/health_detail_screen.dart:239:73 • deprecated_member_use
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/health_detail_screen.dart:249:38 • undefined_method
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/health_detail_screen.dart:262:40 • undefined_method
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/health_detail_screen.dart:278:67 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/health_detail_screen.dart:301:65 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/health_detail_screen.dart:304:65 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/health_detail_screen.dart:308:64 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/health_detail_screen.dart:309:65 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/health_detail_screen.dart:313:64 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/health_detail_screen.dart:314:64 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/health_detail_screen.dart:355:18 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/health_detail_screen.dart:357:37 • deprecated_member_use
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/health_detail_screen.dart:365:49 • undefined_method
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/health_detail_screen.dart:368:53 • undefined_method
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/health_detail_screen.dart:373:66 • undefined_method
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/health_detail_screen.dart:404:47 • undefined_method
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/health_detail_screen.dart:405:52 • undefined_method
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/health_detail_screen.dart:420:41 • undefined_method
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/health_detail_screen.dart:441:40 • undefined_method
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/health_detail_screen.dart:443:59 • undefined_method
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/health_detail_screen.dart:475:65 • undefined_method
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/health_detail_screen.dart:477:43 • undefined_method
+   info • Don't use 'BuildContext's across async gaps • lib/screens/history_screen.dart:45:26 • use_build_context_synchronously
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/history_screen.dart:67:54 • undefined_method
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/history_screen.dart:68:54 • undefined_method
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/history_screen.dart:124:44 • deprecated_member_use
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/history_screen.dart:136:44 • undefined_method
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/history_screen.dart:161:52 • undefined_method
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/history_screen.dart:181:35 • deprecated_member_use
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/history_screen.dart:196:40 • undefined_method
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/history_screen.dart:208:38 • undefined_method
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/history_screen.dart:243:22 • deprecated_member_use
+   info • Use 'const' with the constructor to improve performance • lib/screens/history_screen.dart:366:11 • prefer_const_constructors
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/history_screen.dart:368:43 • undefined_method
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/history_screen.dart:400:41 • deprecated_member_use
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/history_screen.dart:405:42 • undefined_method
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/history_screen.dart:409:32 • undefined_method
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/history_screen.dart:411:49 • undefined_method
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/history_screen.dart:434:42 • deprecated_member_use
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/history_screen.dart:461:40 • undefined_method
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/history_screen.dart:465:71 • undefined_method
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/history_screen.dart:505:40 • undefined_method
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/history_screen.dart:507:40 • undefined_method
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/history_screen.dart:509:39 • undefined_method
+  error • Too many positional arguments: 0 expected, but 1 found • lib/screens/home_screen.dart:60:38 • extra_positional_arguments
+  error • Too many positional arguments: 0 expected, but 1 found • lib/screens/home_screen.dart:66:44 • extra_positional_arguments
+  error • Too many positional arguments: 0 expected, but 1 found • lib/screens/home_screen.dart:68:45 • extra_positional_arguments
+  error • Too many positional arguments: 0 expected, but 1 found • lib/screens/home_screen.dart:70:44 • extra_positional_arguments
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/home_screen.dart:99:34 • undefined_method
+  error • The method '_loadData' isn't defined for the type '_HomeScreenState' • lib/screens/home_screen.dart:124:25 • undefined_method
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/home_screen.dart:139:30 • undefined_method
+  error • The method '_loadData' isn't defined for the type '_HomeScreenState' • lib/screens/home_screen.dart:157:31 • undefined_method
+  error • The method '_loadData' isn't defined for the type '_HomeScreenState' • lib/screens/home_screen.dart:170:31 • undefined_method
+  error • The method '_loadData' isn't defined for the type '_HomeScreenState' • lib/screens/home_screen.dart:183:31 • undefined_method
+  error • Undefined name '_loading' • lib/screens/home_screen.dart:195:9 • undefined_identifier
+  error • Undefined name '_latestRecord' • lib/screens/home_screen.dart:202:9 • undefined_identifier
+  error • Undefined name '_latestRecord' • lib/screens/home_screen.dart:206:15 • undefined_identifier
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/home_screen.dart:213:45 • undefined_method
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/home_screen.dart:216:34 • undefined_method
+   info • Use 'const' with the constructor to improve performance • lib/screens/home_screen.dart:287:13 • prefer_const_constructors
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/home_screen.dart:289:48 • undefined_method
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/home_screen.dart:290:54 • undefined_method
+  error • Undefined name '_stats' • lib/screens/home_screen.dart:300:9 • undefined_identifier
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/home_screen.dart:305:42 • undefined_method
+  error • Undefined name '_stats' • lib/screens/home_screen.dart:307:32 • undefined_identifier
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/home_screen.dart:318:41 • undefined_method
+  error • The method '_loadData' isn't defined for the type '_HomeScreenState' • lib/screens/home_screen.dart:323:25 • undefined_method
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/home_screen.dart:324:50 • undefined_method
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/home_screen.dart:367:43 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/home_screen.dart:376:30 • deprecated_member_use
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/home_screen.dart:384:34 • undefined_method
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/home_screen.dart:393:34 • undefined_method
+   info • Use 'const' with the constructor to improve performance • lib/screens/manual_entry_screen.dart:81:13 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/manual_entry_screen.dart:114:13 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/manual_entry_screen.dart:124:13 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/manual_entry_screen.dart:135:13 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/manual_entry_screen.dart:146:13 • prefer_const_constructors
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/manual_entry_screen.dart:150:34 • undefined_method
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/manual_entry_screen.dart:154:40 • undefined_method
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/manual_entry_screen.dart:179:55 • undefined_method
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/manual_entry_screen.dart:202:40 • undefined_method
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/manual_entry_screen.dart:233:26 • undefined_method
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/manual_entry_screen.dart:247:33 • undefined_method
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/manual_entry_screen.dart:249:32 • undefined_method
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/manual_entry_screen.dart:251:34 • undefined_method
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/manual_entry_screen.dart:262:33 • undefined_method
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/profile_screen.dart:70:52 • undefined_method
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/profile_screen.dart:92:44 • undefined_method
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/profile_screen.dart:99:44 • undefined_method
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/profile_screen.dart:103:44 • undefined_method
+   info • Use 'const' with the constructor to improve performance • lib/screens/profile_screen.dart:112:15 • prefer_const_constructors
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/profile_screen.dart:159:51 • undefined_method
+   info • Use 'const' with the constructor to improve performance • lib/screens/profile_screen.dart:178:15 • prefer_const_constructors
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/profile_screen.dart:249:26 • undefined_method
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/profile_screen.dart:257:33 • undefined_method
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/profile_screen.dart:258:32 • undefined_method
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/profile_screen.dart:276:48 • undefined_method
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/profile_screen.dart:279:30 • undefined_method
+   info • Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check • lib/screens/profile_screen.dart:296:30 • use_build_context_synchronously
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/profile_screen.dart:314:26 • undefined_method
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/profile_screen.dart:343:47 • undefined_method
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/profile_screen.dart:376:54 • deprecated_member_use
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/profile_screen.dart:384:50 • undefined_method
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/profile_screen.dart:385:53 • undefined_method
+   info • Use 'const' with the constructor to improve performance • lib/screens/profile_screen.dart:389:13 • prefer_const_constructors
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/profile_screen.dart:412:59 • deprecated_member_use
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/profile_screen.dart:417:43 • undefined_method
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/profile_screen.dart:447:40 • undefined_method
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/profile_screen.dart:451:44 • undefined_method
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/profile_screen.dart:456:54 • undefined_method
+   info • Use 'const' with the constructor to improve performance • lib/screens/settings_screen.dart:96:17 • prefer_const_constructors
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/settings_screen.dart:120:46 • undefined_method
+   info • Use 'const' with the constructor to improve performance • lib/screens/settings_screen.dart:155:17 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/settings_screen.dart:187:17 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/settings_screen.dart:190:21 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/settings_screen.dart:192:21 • prefer_const_constructors
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/settings_screen.dart:209:40 • undefined_method
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/settings_screen.dart:232:28 • undefined_method
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/settings_screen.dart:276:52 • deprecated_member_use
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/settings_screen.dart:284:48 • undefined_method
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/settings_screen.dart:285:51 • undefined_method
+   info • 'activeColor' is deprecated and shouldn't be used. Use activeThumbColor instead. This feature was deprecated after v3.31.0-2.0.pre • lib/screens/settings_screen.dart:292:13 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/settings_screen.dart:323:54 • deprecated_member_use
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/settings_screen.dart:327:60 • undefined_method
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/settings_screen.dart:358:52 • deprecated_member_use
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/settings_screen.dart:362:58 • undefined_method
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/settings_screen.dart:381:55 • undefined_method
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/settings_screen.dart:408:58 • undefined_method
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/screens/settings_screen.dart:409:42 • undefined_method
+   info • The import of 'dart:typed_data' is unnecessary because all of the used elements are also provided by the import of 'package:flutter/foundation.dart' • lib/services/bluetooth_service.dart:10:8 • unnecessary_import
+warning • Unused import: 'package:image/image.dart' • lib/services/camera_health_service.dart:18:8 • unused_import
+warning • The value of the field '_sampleRateHz' isn't used • lib/services/camera_health_service.dart:73:20 • unused_field
+  error • The named parameter 'uiLocalNotificationDateInterpretation' is required, but there's no corresponding argument • lib/services/notification_service.dart:64:19 • missing_required_argument
+warning • The value of the local variable 'hrMax' isn't used • lib/utils/health_evaluator.dart:91:11 • unused_local_variable
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/widgets/health_ring_chart.dart:48:46 • undefined_method
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/widgets/health_ring_chart.dart:56:46 • undefined_method
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/widgets/health_ring_chart.dart:135:42 • undefined_method
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/widgets/health_ring_chart.dart:139:32 • undefined_method
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/widgets/health_ring_chart.dart:142:41 • undefined_method
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/widgets/metric_card.dart:34:22 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/widgets/metric_card.dart:54:41 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/widgets/metric_card.dart:66:32 • deprecated_member_use
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/widgets/metric_card.dart:71:38 • undefined_method
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/widgets/metric_card.dart:83:32 • undefined_method
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/widgets/metric_card.dart:91:38 • undefined_method
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/widgets/metric_card.dart:99:38 • undefined_method
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/widgets/trend_indicator.dart:44:22 • deprecated_member_use
+  error • The method 'notoSansTC' isn't defined for the type 'GoogleFonts' • lib/widgets/trend_indicator.dart:54:32 • undefined_method
+  error • The name 'MyApp' isn't a class • test/widget_test.dart:16:35 • creation_with_non_type
+

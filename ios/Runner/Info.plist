@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!-- ios/Runner/Info.plist - 在現有 Info.plist 中加入以下 key -->
+<plist version="1.0">
+<dict>
+    <!-- ─── Bluetooth ──────────────────────────────────────────────── -->
+    <key>NSBluetoothAlwaysUsageDescription</key>
+    <string>需要藍芽權限以連接血壓計、體重計、脈搏血氧儀等健康裝置</string>
+    <key>NSBluetoothPeripheralUsageDescription</key>
+    <string>需要藍芽權限以連接健康監測裝置</string>
+
+    <!-- ─── Camera ────────────────────────────────────────────────── -->
+    <key>NSCameraUsageDescription</key>
+    <string>需要相機以透過影像分析方式測量心率與血氧飽和度</string>
+
+    <!-- ─── Motion (Steps) ───────────────────────────── -->
+    <key>NSMotionUsageDescription</key>
+    <string>需要存取運動感應器以自動偵測您的步數</string>
+
+    <!-- ─── App Info ──────────────────────────────────────────────── -->
+    <key>CFBundleDisplayName</key>
+    <string>健康監測</string>
+    <key>UIRequiresFullScreen</key>
+    <true/>
+
+    <!-- ─── Background Modes ─────────────────────────────────────── -->
+    <key>UIBackgroundModes</key>
+    <array>
+        <string>bluetooth-central</string>
+    </array>
+	<key>CADisableMinimumFrameDurationOnPhone</key>
+	<true/>
+	<key>UIApplicationSupportsIndirectInputEvents</key>
+	<true/>
+</dict>
+</plist>
