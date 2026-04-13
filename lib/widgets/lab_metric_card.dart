@@ -189,10 +189,11 @@ class _LabMetricCardState extends State<LabMetricCard> {
           return index == highestIndex || index == lowestIndex;
         },
         getDotPainter: (spot, percent, barData, index) {
+          final markColor = Theme.of(context).colorScheme.onSurface;
           if (index == highestIndex) {
-            return TrianglePainter(color: Colors.white, upward: true, size: 7);
+            return TrianglePainter(color: markColor, upward: true, size: 7);
           } else if (index == lowestIndex) {
-            return TrianglePainter(color: Colors.white, upward: false, size: 7);
+            return TrianglePainter(color: markColor, upward: false, size: 7);
           }
           return FlDotCirclePainter(radius: 0);
         },

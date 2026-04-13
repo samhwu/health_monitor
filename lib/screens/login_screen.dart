@@ -83,7 +83,7 @@ class _LoginScreenState extends State<LoginScreen> with SingleTickerProviderStat
                 ),
                 const SizedBox(height: 24),
                 Text(
-                  '三總醫護助手',
+                  '健康監測助手',
                   style: GoogleFonts.notoSansTc(
                     fontSize: 28,
                     fontWeight: FontWeight.w900,
@@ -92,7 +92,7 @@ class _LoginScreenState extends State<LoginScreen> with SingleTickerProviderStat
                   ),
                 ),
                 Text(
-                  'TSGH Health Assistant',
+                  'Health Monitor Assistant',
                   style: GoogleFonts.outfit(
                     fontSize: 14,
                     color: theme.colorScheme.onSurface.withValues(alpha: 0.5),
@@ -150,7 +150,7 @@ class _LoginScreenState extends State<LoginScreen> with SingleTickerProviderStat
                 ),
                 const Spacer(),
                 Text(
-                  '© 2026 TSGH All Rights Reserved.',
+                  '© 2026 Health Monitor. All Rights Reserved.',
                   style: GoogleFonts.notoSansTc(
                     fontSize: 10,
                     color: theme.colorScheme.onSurface.withValues(alpha: 0.3),
