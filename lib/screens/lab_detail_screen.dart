@@ -12,32 +12,51 @@ class LabDetailScreen extends StatelessWidget {
   const LabDetailScreen({super.key, required this.result});
 
   @override
-    Widget build(BuildContext context) {
-      return Scaffold(
-        backgroundColor: Theme.of(context).scaffoldBackgroundColor,
-        appBar: AppBar(
-          leading: IconButton(
-            icon: const Icon(Icons.home_rounded),
-            onPressed: () => Navigator.of(context).popUntil((route) => route.isFirst),
-          ),
-          title: Text(
-            result.name,
-            style: GoogleFonts.notoSansTc(fontSize: 18, fontWeight: FontWeight.w600),
-          ),
+  Widget build(BuildContext context) {
+    return Scaffold(
+      backgroundColor: Theme.of(context).scaffoldBackgroundColor,
+      appBar: AppBar(
+        leading: IconButton(
+          icon: const Icon(Icons.home_rounded),
+          onPressed: () => Navigator.of(context).popUntil((route) => route.isFirst),
         ),
-        body: Padding(
-          padding: const EdgeInsets.all(16),
-          child: Row(
-            crossAxisAlignment: CrossAxisAlignment.stretch,
-            children: [
-              Expanded(flex: 3, child: _buildMainChartSection(context)),
-              const SizedBox(width: 16),
-              Expanded(flex: 2, child: _buildHistoryTable(context)),
-            ],
-          ),
+        title: Text(
+          result.name,
+          style: GoogleFonts.notoSansTc(fontSize: 18, fontWeight: FontWeight.w600),
         ),
-      );
-    }
+      ),
+      body: LayoutBuilder(
+        builder: (context, constraints) {
+          final isDesktop = constraints.maxWidth > 900;
+          
+          if (isDesktop) {
+            return Padding(
+              padding: const EdgeInsets.all(16),
+              child: Row(
+                crossAxisAlignment: CrossAxisAlignment.stretch,
+                children: [
+                  Expanded(flex: 3, child: _buildMainChartSection(context)),
+                  const SizedBox(width: 16),
+                  Expanded(flex: 2, child: _buildHistoryTable(context)),
+                ],
+              ),
+            );
+          } else {
+            return Padding(
+              padding: const EdgeInsets.all(16),
+              child: Column(
+                children: [
+                  Expanded(flex: 2, child: _buildMainChartSection(context)),
+                  const SizedBox(height: 16),
+                  Expanded(flex: 3, child: _buildHistoryTable(context)),
+                ],
+              ),
+            );
+          }
+        },
+      ),
+    );
+  }
 
   Widget _buildMainChartSection(BuildContext context) {
     if (result.history.isEmpty) return const SizedBox.shrink();
